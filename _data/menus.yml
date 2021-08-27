@@ -1,0 +1,24 @@
+main:
+  - name: "Github"
+    url: "https://github.com/pylon-lib/pylon"
+    weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 4
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 5
+
+footer:
+  - name: "Github"
+    url: "https://github.com/pylon-lib/pylon"
+    weight: 2
+  - name: "Team"
+    url: "/team/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
+    weight: 4

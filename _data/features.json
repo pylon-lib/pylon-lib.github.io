@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Easy to Write",
+    "description": "Single line of code that captures the constraint.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Integrates with PyTorch",
+    "description": "Do not have to change existing code, just add a new loss.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Efficient Training",
+    "description": "Compile the constraints into losses that are optimized efficiently.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
