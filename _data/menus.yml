@@ -1,4 +1,7 @@
 main:
+  - name: "Video"
+    url: "https://www.youtube.com/watch?v=9nKfe56py3A"
+    weight: 2
   - name: "Github"
     url: "https://github.com/pylon-lib/pylon"
     weight: 2
