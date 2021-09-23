@@ -11,13 +11,6 @@ import torchvision.transforms as transforms
 torch.manual_seed(1234)
 ```
 
-
-
-
-    <torch._C.Generator at 0x7fe93808f970>
-
-
-
 We begin by defining our model, taken from the Pytorch MNIST tutorial
 
 
