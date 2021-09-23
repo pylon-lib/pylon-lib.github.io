@@ -1,3 +1,5 @@
+# Sudoku
+
 The task considered in that of solving a 6x6 sudoku by means of imposing constraints on the predictions of the model during training. We do not enforce that the entire predicted sudoku be valid, but rather that every row, column and square have unique elements. If all such constraints are satisfied, we're guaranteed that the predicted sudoku is valid. This case study therefore provides an example of cases where it might be infeasible to enforce a constraint, in which case we can resort to breaking it down into simpler constraints which we can then simultaneously minimize during training.
 
 
@@ -10,13 +12,6 @@ torch.manual_seed(4)
 import matplotlib.pyplot as plt
 %matplotlib inline
 ```
-
-
-
-
-    <torch._C.Generator at 0x7f45dc1348b0>
-
-
 
 We begin by defining our model. As can be seen our model is just 3D tensor-- each cell in the 6x6 sudkoku can take on any of 6 values
 
@@ -228,17 +223,5 @@ plt.colorbar(heatmap)
 ```
 
 
-
-
-    <matplotlib.colorbar.Colorbar at 0x7f4550484d10>
-
-
-
-
 ![png](sudoku_files/sudoku_20_1.png)
 
-
-
-```python
-
-```
