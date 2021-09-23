@@ -237,7 +237,7 @@ plt.colorbar(heatmap)
 
 
 
-![png](Sudoku%206x6%20-%20Video_files/Sudoku%206x6%20-%20Video_20_1.png)
+![png](sudoku_files/sudoku_20_1.png)
 
 
 
