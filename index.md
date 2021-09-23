@@ -14,3 +14,4 @@ intro_image_hide_on_mobile: true
 Pylon lets you to train your deep learning models with arbitrary constraints on the output.
 
 <a href="https://github.com/pylon-lib/pylon" class="button">Github</a>
+<a href="https://www.youtube.com/watch?v=9nKfe56py3A" class="button">Video</a>
