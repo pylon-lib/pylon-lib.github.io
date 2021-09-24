@@ -1,4 +1,10 @@
-# MNIST Addition
+---
+title: MNIST Addition
+layout: page
+permalink: "/notebooks/mnist_addition"
+---
+
+[Back to all notebooks](/notebooks)
 
 The task considered in this notebook is very reminiscent of the classical learning task on the MNIST data. However, instead of providing labels for single digits, we train on pairs of images labeled with the sum of the individual digits. It was first introduced in Manhaeve 2018.
 

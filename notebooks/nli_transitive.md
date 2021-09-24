@@ -1,4 +1,10 @@
-# NLI Transitivity
+---
+title: NLI Transitivity
+layout: page
+permalink: "/notebooks/nli_transitive"
+---
+
+[Back to all notebooks](/notebooks)
 
 The task measures three connected NLI examples according to their transitive consistency.
 For instance, suppose we have three sentences P, H, and Z.

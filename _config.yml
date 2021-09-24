@@ -28,6 +28,8 @@ defaults:
     values:
       layout: "team"
 
+demo_video: https://www.youtube.com/watch?v=9nKfe56py3A
+
 sass:
   indentWidth: 4
   style: compressed # possible values: nested expanded compact compressed

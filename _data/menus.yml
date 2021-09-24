@@ -1,6 +1,9 @@
 main:
+  - name: "Notebooks"
+    url: "/notebooks"
+    weight: 2
   - name: "Video"
-    url: "https://www.youtube.com/watch?v=9nKfe56py3A"
+    url: "{{site.demo_video}}"
     weight: 2
   - name: "Github"
     url: "https://github.com/pylon-lib/pylon"
