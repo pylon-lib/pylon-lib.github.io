@@ -1,0 +1,25 @@
+.language-python {
+    background-color: $white-offset;
+
+    .kn, .k {
+        font-weight: bold;
+        color: $primary-dark;
+    }
+
+    .p, .o {
+        color: $primary-dark;
+    }
+
+    .c1 {
+        color: $steel;
+        font-style: italic;
+    }
+
+    .mi, .mf, .s {
+        color: $primary;
+    }
+}
+
+.language-plaintext {
+    background-color: lightyellow;
+}
